@@ -81,13 +81,12 @@ section h3 {
   color: #555;
 }
 
-.activity-card li {
+.activity-card li .participant {
   margin-bottom: 5px;
   padding: 2px 0;
   font-size: 14px;
   line-height: 1.5;
 }
-
 
 .form-group {
   margin-bottom: 15px;
